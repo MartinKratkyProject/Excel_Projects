@@ -1,6 +1,6 @@
 # Excel_Projects
 
-Autor: Martin Krátky
+Author: Martin Krátky
 
 The provided excel projects show basic data analysis in excel worksheets. The projects contain commonly used steps like:
   - data extraction;
