@@ -7,5 +7,3 @@ The provided excel projects show basic data analysis in excel worksheets. The pr
   - data cleaning;
   - visualisation;
   - etc.
-
-Data are downloaded for free usually from websites like kaggle.com. 
